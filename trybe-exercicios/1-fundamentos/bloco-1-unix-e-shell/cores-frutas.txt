@@ -1,0 +1,16 @@
+amarelo
+vermelho
+azul
+verde
+branco
+rosa
+preto
+laranja
+cinza
+marrom
+banana
+morango
+laranja
+manga
+maca
+uva
